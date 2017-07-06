@@ -2431,6 +2431,12 @@ ignite-i18n:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/ignite-i18n/download/ignite-i18n-1.0.0.tgz#4e7f5ecebf00ceeac0b52a1a2fb5227b5ecb3faa"
 
+ignite-ir-next:
+  version "0.1.0"
+  resolved "http://registry.npm.taobao.org/ignite-ir-next/download/ignite-ir-next-0.1.0.tgz#1bea70e645ccd752961cce0b0103d11961b20216"
+  dependencies:
+    ramda "^0.23.0"
+
 ignite-standard:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/ignite-standard/download/ignite-standard-1.0.0.tgz#76ad70395d3e8a382dcf1395761e1ae19b6d0849"

@@ -2,5 +2,12 @@
   "createdWith": "2.0.0-rc.2",
   "examples": "classic",
   "navigation": "react-navigation",
-  "generators": {}
+  "generators": {
+    "component": "ignite-ir-next",
+    "container": "ignite-ir-next",
+    "listview": "ignite-ir-next",
+    "redux": "ignite-ir-next",
+    "saga": "ignite-ir-next",
+    "screen": "ignite-ir-next"
+  }
 }
